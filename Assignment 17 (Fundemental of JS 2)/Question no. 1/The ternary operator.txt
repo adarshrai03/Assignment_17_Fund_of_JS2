@@ -1,0 +1,11 @@
+The ternary operator, also known as the conditional operator, is a concise way to write a simple if-else statement in a single line of code. It is often used when you need to assign a value to a variable based on a condition. The syntax of the ternary operator is as follows:
+
+condition ? expression_if_true : expression_if_false;
+
+Here's a breakdown of the components:
+
+condition: This is the Boolean expression that determines which of the two expressions (expression_if_true or expression_if_false) should be evaluated. If the condition is true, the value of expression_if_true is returned; otherwise, the value of expression_if_false is returned.
+
+expression_if_true: This is the value or expression that is returned if the condition is true.
+
+expression_if_false: This is the value or expression that is returned if the condition is false.
